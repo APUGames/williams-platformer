@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 122c2f494e62f1e408acafd9b6c9f5d3
+guid: 6d2f9893410a9324192eecfe3960bbbe
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -166,11 +166,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: coin_01_0
+      name: player_5_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
+        y: 158
         width: 32
         height: 32
       alignment: 0
@@ -180,18 +180,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c25e9e0e102a53f42b4958e08ba029af
-      internalID: -1984741097
+      spriteID: a434be01af03b23429e75b6c21f0332f
+      internalID: 749030608
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: coin_01_1
+      name: player_5_1
       rect:
         serializedVersion: 2
-        x: 38
-        y: 0
+        x: 32
+        y: 158
         width: 32
         height: 32
       alignment: 0
@@ -201,18 +201,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f72b5e7ad509e0847a6c8611d612b101
-      internalID: -908238512
+      spriteID: 03954fbc04d6fd1418d6319ee9ff6a34
+      internalID: 796374307
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: coin_01_2
+      name: player_5_2
       rect:
         serializedVersion: 2
-        x: 76
-        y: 0
+        x: 64
+        y: 158
         width: 32
         height: 32
       alignment: 0
@@ -222,18 +222,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e50d0b79fe636049b8da542f6900df9
-      internalID: -1713349060
+      spriteID: 73c3f8a8b09c98f4db13da2474156842
+      internalID: 82955038
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: coin_01_3
+      name: player_5_3
       rect:
         serializedVersion: 2
-        x: 114
-        y: 0
+        x: 96
+        y: 158
         width: 32
         height: 32
       alignment: 0
@@ -243,18 +243,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5993bbac5827a0643819091b6e1c5365
-      internalID: 1157111101
+      spriteID: b32ec7d631470a84aaca37c0616fa0da
+      internalID: 734926280
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: coin_01_4
+      name: player_5_4
       rect:
         serializedVersion: 2
-        x: 152
-        y: 0
+        x: 128
+        y: 158
         width: 32
         height: 32
       alignment: 0
@@ -264,18 +264,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7714a63b49842044bae8ba242d995cdf
-      internalID: 657117578
+      spriteID: 0758899e50e18a444a94c56934e2e3c2
+      internalID: 1360167890
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: coin_01_5
+      name: player_5_5
       rect:
         serializedVersion: 2
-        x: 190
-        y: 0
+        x: 160
+        y: 158
         width: 32
         height: 32
       alignment: 0
@@ -285,18 +285,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 24c263c29c2cfc64092a5372bd30f66c
-      internalID: 898174816
+      spriteID: 606176f3adb699140a33e412c21b217a
+      internalID: -338087688
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: coin_01_6
+      name: player_5_6
       rect:
         serializedVersion: 2
-        x: 228
-        y: 0
+        x: 192
+        y: 158
         width: 32
         height: 32
       alignment: 0
@@ -306,18 +306,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad92267df1beecd44a7a9dfe63543e28
-      internalID: 543473823
+      spriteID: 72868e0dd3e6316458c5c44a7e6efb10
+      internalID: 92741096
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: coin_01_7
+      name: player_5_7
       rect:
         serializedVersion: 2
-        x: 266
-        y: 0
+        x: 224
+        y: 158
         width: 32
         height: 32
       alignment: 0
@@ -327,18 +327,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f500fe9f22364d04595b341c61cda064
-      internalID: 54246046
+      spriteID: 8a6052f3c0534d648bb36f7ec371583d
+      internalID: -805205600
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: coin_01_8
+      name: player_5_8
       rect:
         serializedVersion: 2
-        x: 304
-        y: 0
+        x: 256
+        y: 158
         width: 32
         height: 32
       alignment: 0
@@ -348,18 +348,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4dce6016c70cb3a458390a4dd20994ef
-      internalID: -1968234348
+      spriteID: 30f543a4ab6ae6d42b1d643f0b28fdac
+      internalID: 1572654847
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: coin_01_9
+      name: player_5_9
       rect:
         serializedVersion: 2
-        x: 342
-        y: 0
+        x: 0
+        y: 122
         width: 32
         height: 32
       alignment: 0
@@ -369,18 +369,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: edc84f080316cc742a1d739cfeb6aa7e
-      internalID: 910116675
+      spriteID: f27e5434bbb005f42ad0e359a9f49d4e
+      internalID: -105225080
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: coin_01_10
+      name: player_5_10
       rect:
         serializedVersion: 2
-        x: 380
-        y: 0
+        x: 32
+        y: 122
         width: 32
         height: 32
       alignment: 0
@@ -390,18 +390,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 18c5cc278eb797a4ba507b4feaf6c98e
-      internalID: -38604116
+      spriteID: 621c05695691e4145a5d99c7e6157271
+      internalID: 945354828
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: coin_01_11
+      name: player_5_11
       rect:
         serializedVersion: 2
-        x: 418
-        y: 0
+        x: 64
+        y: 122
         width: 32
         height: 32
       alignment: 0
@@ -411,8 +411,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d93fc4edac92f694c8e268c1adf7ef59
-      internalID: -2074031099
+      spriteID: 4f22a88f92c527047ab8e0e26858ac31
+      internalID: -141531408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_5_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c005fdb7b957d2408156b345831b37e
+      internalID: -31903504
       vertices: []
       indices: 
       edges: []
@@ -428,18 +449,19 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      coin_01_8: -1968234348
-      coin_01_3: 1157111101
-      coin_01_2: -1713349060
-      coin_01_0: -1984741097
-      coin_01_5: 898174816
-      coin_01_10: -38604116
-      coin_01_9: 910116675
-      coin_01_7: 54246046
-      coin_01_1: -908238512
-      coin_01_11: -2074031099
-      coin_01_4: 657117578
-      coin_01_6: 543473823
+      player_5_2: 82955038
+      player_5_8: 1572654847
+      player_5_11: -141531408
+      player_5_0: 749030608
+      player_5_3: 734926280
+      player_5_5: -338087688
+      player_5_1: 796374307
+      player_5_10: 945354828
+      player_5_6: 92741096
+      player_5_4: 1360167890
+      player_5_12: -31903504
+      player_5_9: -105225080
+      player_5_7: -805205600
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 

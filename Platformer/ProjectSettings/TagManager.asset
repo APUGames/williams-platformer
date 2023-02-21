@@ -16,9 +16,9 @@ TagManager:
   - Climbing
   - Background
   - Enemy
-  - 
-  - 
-  - 
+  - Hazards
+  - Pickups
+  - MainCamera
   - 
   - 
   - 
@@ -49,6 +49,12 @@ TagManager:
     locked: 0
   - name: Foreground
     uniqueID: 2009230079
+    locked: 0
+  - name: Hazards
+    uniqueID: 547345833
+    locked: 0
+  - name: Pickups
+    uniqueID: 2622638603
     locked: 0
   - name: Enemy
     uniqueID: 2067504457
