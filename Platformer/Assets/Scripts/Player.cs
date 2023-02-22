@@ -73,10 +73,14 @@ public class Player : MonoBehaviour
     {
         // If the player is moving horizontally in one direction
         bool hMovement = Mathf.Abs(playerCharacter.velocity.x) > Mathf.Epsilon;
-        
-        if(hMovement)
+
+        if (hMovement)
         {
             // Reverse the current scaling of the X-axis to flip the sprite
+            transform.localScale = new Vector2(Mathf.Sign(playerCharacter.velocity.x), 1f);
+        }
+        else
+        {
             transform.localScale = new Vector2(Mathf.Sign(playerCharacter.velocity.x), 1f);
         }
     }
